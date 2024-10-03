@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lorabase_eu868.h": "c",
+        "lmic_bandplan_eu868.h": "c"
+    }
+}
